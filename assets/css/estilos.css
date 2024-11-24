@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+h1{
+  font-size: 35px !important;
+  
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -35,5 +40,3 @@ body {
   .navbar-brand{
     width: 100px;
   }
-
-}
